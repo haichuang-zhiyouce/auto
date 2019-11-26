@@ -1,3 +1,3 @@
-# the first line code : hello world
+# the first line code : hello auto
 
-print("hello world")
+print("hello auto")
